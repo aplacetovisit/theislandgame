@@ -70,3 +70,8 @@ Timingila is a monstrous sea beast that occupies the depths off the southwest si
 The Point
 ---------
 An all purpose signal and watch tower. 
+
+
+East Lawn, West Lawn, and Northsteads
+-------------------------------------
+These three regions are sparsely populated tracts that act as suburbs of sorts for the major cities. 
