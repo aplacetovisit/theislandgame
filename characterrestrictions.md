@@ -1,9 +1,9 @@
-#Character Restrictions
+# Character Restrictions
 
-##Races
+## Races
 
 
-###Common Races
+### Common Races
 Hill Dwarf https://www.dndbeyond.com/characters/races/dwarf#HillDwarf
 Mountain Dwarf https://www.dndbeyond.com/characters/races/dwarf#MountainDwarf
 
@@ -40,7 +40,7 @@ Half-Wood Elf https://www.dndbeyond.com/characters/races/half-elf#WoodHalfElf
 Half-Aquatic Elf https://www.dndbeyond.com/characters/races/half-elf#AquaticHalfElf
 
 
-###Uncommon Races
+### Uncommon Races
 Half-Orc https://www.dndbeyond.com/characters/races/half-orc
 Tiefling https://www.dndbeyond.com/characters/races/tiefling - Legacy abilities do not work. Variant Winged Tiefling doesn't get a fly speed.
 Tortle  https://www.dndbeyond.com/characters/races/tortle
@@ -49,7 +49,7 @@ Shifter https://www.dndbeyond.com/characters/races/shifter
 Loxodon https://www.dndbeyond.com/characters/races/loxodon
 Tabaxi https://www.dndbeyond.com/characters/races/tabaxi
 
-###Incredibly Rare Races
+### Incredibly Rare Races
 Changeling https://www.dndbeyond.com/characters/races/changeling
 
 
