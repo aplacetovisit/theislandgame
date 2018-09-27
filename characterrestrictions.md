@@ -4,8 +4,8 @@
 
 
 ### Common Races  
-Hill Dwarf https://www.dndbeyond.com/characters/races/dwarf#HillDwarf  
-Mountain Dwarf https://www.dndbeyond.com/characters/races/dwarf#MountainDwarf  
+[Hill Dwarf](https://www.dndbeyond.com/characters/races/dwarf#HillDwarf)  
+[Mountain Dwarf](https://www.dndbeyond.com/characters/races/dwarf#MountainDwarf)  
 
 
 High Elf  https://www.dndbeyond.com/characters/races/elf#HighElf - Cantrip doesn't work  
