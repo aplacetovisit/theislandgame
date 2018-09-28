@@ -96,12 +96,12 @@ Gods can have the missing domains (Arcana, Knowledge, Trickery), but they are no
 [Way of the Open Hand](https://www.dndbeyond.com/characters/classes/monk#WayoftheOpenHand)  
 
 ### Paladin
-https://www.dndbeyond.com/characters/classes/paladin#OathofConquest
-https://www.dndbeyond.com/characters/classes/paladin#OathofDevotion
-https://www.dndbeyond.com/characters/classes/paladin#OathofRedemption
-https://www.dndbeyond.com/characters/classes/paladin#OathoftheAncients
-https://www.dndbeyond.com/characters/classes/paladin#OathoftheCrown
-https://www.dndbeyond.com/characters/classes/paladin#OathofVengeance
+[Oath of Conquest](https://www.dndbeyond.com/characters/classes/paladin#OathofConquest)  
+[Oath of Devotion](https://www.dndbeyond.com/characters/classes/paladin#OathofDevotion)  
+[Oath of Redemption](https://www.dndbeyond.com/characters/classes/paladin#OathofRedemption)  
+[Oath of the Ancients](https://www.dndbeyond.com/characters/classes/paladin#OathoftheAncients)  
+[Oath of the Crown](https://www.dndbeyond.com/characters/classes/paladin#OathoftheCrown)  
+[Oath of Vengeance](https://www.dndbeyond.com/characters/classes/paladin#OathofVengeance)  
 
 
 ### Ranger
