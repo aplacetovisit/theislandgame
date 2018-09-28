@@ -48,4 +48,36 @@
 [Changeling](https://www.dndbeyond.com/characters/races/changeling)
 
 
+## Classes
+
+### Barbarian
+[Path of the Ancestral Guardian](https://www.dndbeyond.com/characters/classes/barbarian#PathoftheAncestralGuardian)  
+[Path of the Battlerager](https://www.dndbeyond.com/characters/classes/barbarian#PathoftheBattlerager)  
+[Path of the Berserker](https://www.dndbeyond.com/characters/classes/barbarian#PathoftheBerserker)  
+[Path of the Storm Herald](https://www.dndbeyond.com/characters/classes/barbarian#PathoftheStormHerald)  
+[Path of the Totem Warrior](https://www.dndbeyond.com/characters/classes/barbarian#PathoftheTotemWarrior)
+[Path of the Zealot](https://www.dndbeyond.com/characters/classes/barbarian#PathoftheZealot)
+
+### Bard
+None
+
+### Cleric
+
+Gods can have the missing domains (Arcana, Knowledge, Trickery), but they are not available to clerics to use.  
+
+[Death Domain](https://www.dndbeyond.com/characters/classes/cleric#DeathDomain)  
+[Forge Domain](https://www.dndbeyond.com/characters/classes/cleric#ForgeDomain)  
+[Grave Domain](https://www.dndbeyond.com/characters/classes/cleric#GraveDomain)  
+[Life Domain](https://www.dndbeyond.com/characters/classes/cleric#LifeDomain)  
+[Light Domain](https://www.dndbeyond.com/characters/classes/cleric#LightDomain)  
+[Nature Domain](https://www.dndbeyond.com/characters/classes/cleric#NatureDomain)  
+[Order Domain](https://www.dndbeyond.com/characters/classes/cleric#OrderDomain)  
+[Tempest Domain](https://www.dndbeyond.com/characters/classes/cleric#TempestDomain)  
+[War Domain](https://www.dndbeyond.com/characters/classes/cleric#WarDomain)  
+
+### Druid
+[Circle of Dreams](https://www.dndbeyond.com/characters/classes/druid#CircleofDreams)
+[Circle of the Land](https://www.dndbeyond.com/characters/classes/druid#CircleoftheLand)
+[Circle of the Moon](https://www.dndbeyond.com/characters/classes/druid#CircleoftheMoon)
+[Circle of the Shepherd](https://www.dndbeyond.com/characters/classes/druid#CircleoftheShepherd)
 
