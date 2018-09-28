@@ -76,8 +76,53 @@ Gods can have the missing domains (Arcana, Knowledge, Trickery), but they are no
 [War Domain](https://www.dndbeyond.com/characters/classes/cleric#WarDomain)  
 
 ### Druid
-[Circle of Dreams](https://www.dndbeyond.com/characters/classes/druid#CircleofDreams)
-[Circle of the Land](https://www.dndbeyond.com/characters/classes/druid#CircleoftheLand)
-[Circle of the Moon](https://www.dndbeyond.com/characters/classes/druid#CircleoftheMoon)
-[Circle of the Shepherd](https://www.dndbeyond.com/characters/classes/druid#CircleoftheShepherd)
+[Circle of Dreams](https://www.dndbeyond.com/characters/classes/druid#CircleofDreams)  
+[Circle of the Land](https://www.dndbeyond.com/characters/classes/druid#CircleoftheLand)  
+[Circle of the Moon](https://www.dndbeyond.com/characters/classes/druid#CircleoftheMoon)  
+[Circle of the Shepherd](https://www.dndbeyond.com/characters/classes/druid#CircleoftheShepherd)  
 
+### Fighter
+[Battle Master](https://www.dndbeyond.com/characters/classes/fighter#BattleMaster)  
+[Brute](https://www.dndbeyond.com/characters/classes/fighter#Brute)  
+[Cavalier](https://www.dndbeyond.com/characters/classes/fighter#Cavalier)  
+[Champion](https://www.dndbeyond.com/characters/classes/fighter#Champion)  
+[Banneret](https://www.dndbeyond.com/characters/classes/fighter#PurpleDragonKnight)  
+[Samurai](https://www.dndbeyond.com/characters/classes/fighter#Samurai)  
+
+### Monk
+[Way of the Drunken Master](https://www.dndbeyond.com/characters/classes/monk#WayoftheDrunkenMaster)  
+[WayoftheKensei](https://www.dndbeyond.com/characters/classes/monk#WayoftheKensei)  
+[Way of the Long Death](https://www.dndbeyond.com/characters/classes/monk#WayoftheLongDeath)  
+[Way of the Open Hand](https://www.dndbeyond.com/characters/classes/monk#WayoftheOpenHand)  
+
+### Paladin
+https://www.dndbeyond.com/characters/classes/paladin#OathofConquest
+https://www.dndbeyond.com/characters/classes/paladin#OathofDevotion
+https://www.dndbeyond.com/characters/classes/paladin#OathofRedemption
+https://www.dndbeyond.com/characters/classes/paladin#OathoftheAncients
+https://www.dndbeyond.com/characters/classes/paladin#OathoftheCrown
+https://www.dndbeyond.com/characters/classes/paladin#OathofVengeance
+
+
+### Ranger
+[BeastMaste](https://www.dndbeyond.com/characters/classes/ranger#BeastMaster)  
+[GloomStalker](https://www.dndbeyond.com/characters/classes/ranger#GloomStalker)  
+[Hunter](https://www.dndbeyond.com/characters/classes/ranger#Hunter)  
+[Monster Slayer](https://www.dndbeyond.com/characters/classes/ranger#MonsterSlayer)  
+
+### Rogue
+[Assassin](https://www.dndbeyond.com/characters/classes/rogue#Assassin)  
+[Inquisitive](https://www.dndbeyond.com/characters/classes/rogue#Inquisitive)  
+[Mastermind](https://www.dndbeyond.com/characters/classes/rogue#Mastermind)  
+[Scout](https://www.dndbeyond.com/characters/classes/rogue#Scout)  
+[Swashbuckler](https://www.dndbeyond.com/characters/classes/rogue#Swashbuckler)  
+[Thief](https://www.dndbeyond.com/characters/classes/rogue#Thief)  
+
+### Sorcerer
+None
+
+### Warlock
+None
+
+### Wizard
+None
