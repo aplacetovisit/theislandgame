@@ -105,8 +105,8 @@ Gods can have the missing domains (Arcana, Knowledge, Trickery), but they are no
 
 
 ### Ranger
-[BeastMaste](https://www.dndbeyond.com/characters/classes/ranger#BeastMaster)  
-[GloomStalker](https://www.dndbeyond.com/characters/classes/ranger#GloomStalker)  
+[Beast Master](https://www.dndbeyond.com/characters/classes/ranger#BeastMaster)  
+[Gloom Stalker](https://www.dndbeyond.com/characters/classes/ranger#GloomStalker)  
 [Hunter](https://www.dndbeyond.com/characters/classes/ranger#Hunter)  
 [Monster Slayer](https://www.dndbeyond.com/characters/classes/ranger#MonsterSlayer)  
 
