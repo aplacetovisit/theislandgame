@@ -1,4 +1,4 @@
-Notes from the map
+![Map](map.jpg)
 
 
 The Island
