@@ -36,7 +36,7 @@
 [Half-Orc](https://www.dndbeyond.com/characters/races/half-orc)  
 [Tiefling](https://www.dndbeyond.com/characters/races/tiefling) - Legacy abilities do not work. Variant Winged Tiefling doesn't get a fly speed.  
 [Dragonborn](https://www.dndbeyond.com/characters/races/dragonborn)  
-[Lizardfolk](https://www.dndbeyond.com/characters/races/lizardfolk) 
+[Lizardfolk](https://www.dndbeyond.com/characters/races/lizardfolk)  
 [Goliath](https://www.dndbeyond.com/characters/races/goliath)  
 [Tortle](https://www.dndbeyond.com/characters/races/tortle)  
 [Vedalken](https://www.dndbeyond.com/characters/races/vedalken)  
