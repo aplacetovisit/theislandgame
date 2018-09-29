@@ -91,7 +91,7 @@ Gods can have the missing domains (Arcana, Knowledge, Trickery), but they are no
 
 ### Monk
 [Way of the Drunken Master](https://www.dndbeyond.com/characters/classes/monk#WayoftheDrunkenMaster)  
-[WayoftheKensei](https://www.dndbeyond.com/characters/classes/monk#WayoftheKensei)  
+[Way of the Kensei](https://www.dndbeyond.com/characters/classes/monk#WayoftheKensei)  
 [Way of the Long Death](https://www.dndbeyond.com/characters/classes/monk#WayoftheLongDeath)  
 [Way of the Open Hand](https://www.dndbeyond.com/characters/classes/monk#WayoftheOpenHand)  
 
