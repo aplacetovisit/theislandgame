@@ -72,6 +72,6 @@ The Point
 An all purpose signal and watch tower. 
 
 
-East Lawn, West Lawn, and Northsteads
+Westwood, The Cradle, and Northsteads
 -------------------------------------
 These three regions are sparsely populated tracts that act as suburbs of sorts for the major cities. 
