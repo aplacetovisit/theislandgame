@@ -1,4 +1,4 @@
-remote_theme: jekyll/minima
-theme_color: black
+remote_theme: nielsenramon/chalk
+blog_theme: dark
 name: The Island
 url: https://aplacetovisit.github.io/theislandgame/
