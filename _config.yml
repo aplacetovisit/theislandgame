@@ -1,4 +1,4 @@
-remote_theme: pages-themes/midnight
+remote_theme: daattali/beautiful-jekyll
 theme_color: black
 name: The Island
 url: https://aplacetovisit.github.io/theislandgame/
