@@ -1,19 +1,27 @@
+
 #  Factions
 
 
 ##  Invader
 
-"Undead"
-
-"Underdark"
-
-"From the Ocean"
-
-"Hobgoblin"
+The invaders always have a presence on the island, but will periodically congregate in such large numbers as to become a horde. Once the invaders reach horde status they tend to start laying waste to everything around them, up to an including Waterside and The Roost. Rockhome is the only islander stronghold to have never fallen to an invader horde.
 
 
+### Undead
 
+While the bulk of this horde is your run of the mill skeletons and zombies, almost all undead types are represented in the invasion force. There has never been a single leader or driving force behind the undead horde in the few times it has manifested and attacked the islanders.
 
+### Underdark
+
+Made up mostly of grimlock foot soldiers, the underdark horde also includes many other nasties. Derro, Drow, Duergar, and Fomorians make up some of the legions, while Beholders and Illithids are not unheard of. It is believe that the underdark horde is driven by the whispers of the dark gods of the deep.
+
+### From the Ocean
+
+Mostly made up of Sahuagin, the ocean horde also sees many Kuo-Toa that have been enslaved by the Sahuagin as well as a number of giant amphibious sea creatures.
+
+### Hobgoblin
+
+The most frequest horde is the hobgoblin legions. While they always are active in some form or another, the hobgoblin horde usually forms up when three or more legions of hobgoblins set out to raid. The foce is comprised of goblins, hobgoblins, bugbears, ogres, and hill giants, but are primarily lead by hobgoblin commanders. If there is a unifying force behind all the hobgoblins it is unknown. 
 
 ##  Neutral
 
@@ -38,3 +46,11 @@ Of special note are the giant bats and wasps of the woods. Most walkways in The 
 
 
 ##  Islander
+
+### Relgious
+
+### Political
+
+### Para-Military
+
+### Secret Societies
