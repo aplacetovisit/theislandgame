@@ -63,9 +63,8 @@ None
 
 ### Cleric
 
-Gods can have the missing domains (Arcana, Knowledge, Trickery), but they are not available to clerics to use.  
+Gods can have the missing domains (Arcana, Death, Knowledge, Trickery), but they are not available to clerics to use.  
 
-[Death Domain](https://www.dndbeyond.com/characters/classes/cleric#DeathDomain)  
 [Forge Domain](https://www.dndbeyond.com/characters/classes/cleric#ForgeDomain)  
 [Grave Domain](https://www.dndbeyond.com/characters/classes/cleric#GraveDomain)  
 [Life Domain](https://www.dndbeyond.com/characters/classes/cleric#LifeDomain)  
