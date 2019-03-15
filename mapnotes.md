@@ -34,6 +34,9 @@ Lakewatch & Beacon
 ------------------
 Lakewatch and Beacon are two signal towers that are manned by the island guard to alert islanders when Nagaraja begins to stir and leave his lair in the lake. 
 
+Broken Mesa
+-----------
+This feature needs a better description.
 
 The Vigil
 ---------
