@@ -52,7 +52,7 @@
 
 ### Barbarian
 [Path of the Ancestral Guardian](https://www.dndbeyond.com/characters/classes/barbarian#PathoftheAncestralGuardian)  
-[Path of the Battlerager](https://www.dndbeyond.com/characters/classes/barbarian#PathoftheBattlerager) (not restricted)  
+[Path of the Battlerager](https://www.dndbeyond.com/characters/classes/barbarian#PathoftheBattlerager) (not restricted to Dwarves)  
 [Path of the Berserker](https://www.dndbeyond.com/characters/classes/barbarian#PathoftheBerserker)  
 [Path of the Storm Herald](https://www.dndbeyond.com/characters/classes/barbarian#PathoftheStormHerald)  
 [Path of the Totem Warrior](https://www.dndbeyond.com/characters/classes/barbarian#PathoftheTotemWarrior)  
