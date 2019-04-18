@@ -37,6 +37,24 @@ Island wolves have been known to mobilize war parties and defend their lands fro
 
 These monstrous spiders lay claim to pockets of dark forest and deep crags. Individual nests appear to be far apart, but some believe the island spiders work together. They are feared because of their venom and their intelligence. The spiders are known to capture and tend to livestock. They deposit their eggs into the cranial cavities of creatures they have subdued with their venom. These creatures have their brains slowly digested as the spider larvae grows. Some reports of 'zombies' have turned out to be victims of this process that have gone mad. Some believe that the spider young are capable of controlling the victims as they mature.
 
+### Sprites / Pseudodragons 
+
+Long ago the sprites and pseudodragons banded together as means of defending themselves against predation by the larger species of the island. Contact between the islanders and the wee fey nation is minimal. The sprites tend to knockout islanders that have wandered too far into fey lands, rob them of their possessions, and return the hapless fools back to just within the civilized borders. 
+
+### Lizards/Wyverns 
+
+Less a faction and more of an alliance of convenience, the giant lizards and wyverns of the island appear to live in harmony though they have been known to eat one another in times of scarcity. In boon times, though, it isn't unheard of for a giant lizard to guard and even tend to a nest of wyvern eggs. Likewise wyvern have been known to attack interlopers into giant lizard nesting grounds.
+
+Islanders have managed to capture and even domesticate a few giant lizards and wyvern, but they seem to be regarded as aliens to their natural counterparts. Neither hesitate to kill one another in battle.
+
+### Griffon/Hippogriff 
+
+There are writings from before the big forget that tell of epic battles between the griffon and hippogriff creatures. No one knows what might have set them off, nor what brokered peace between them, but the two species seem to work very closely together om defense of their mountain homes.
+
+### Awakened Plants
+
+Not a lot is known about the awakened plants of the island. For the most part they go unnoticed in the forests and jungles and it isn't unknown for a familiar copse of trees to suddenly be gone the next morning along with a handful of livestock from some of the farms that edge too close to the savage lands.
+
 
 ###  Monsters
 
