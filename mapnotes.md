@@ -36,7 +36,7 @@ Lakewatch and Beacon are two signal towers that are manned by the island guard t
 
 Broken Mesa
 -----------
-This feature needs a better description.
+Once home to a diverse jungle kingdom, Green Mesa was fractured in a cataclysmic assault that claimed the life of the archdruid leader of the wererats. The few remaining groups that still call the area home contend with trecherous shifting lands, monstrous mutant creatures, and opportunistic attacks by wererats hellbent on reclaiming their lost home. 
 
 The Vigil
 ---------
@@ -52,7 +52,7 @@ Every couple of generations someone will fund another expedition off the island 
 
 Rockhome
 --------
-Also known as: The Rock, Rockytop, Stone City, The Triplets, Trip City, The Fort, Olvangard
+Also known as: The Rock, Rockytop, Stone City, The Triplets, Trip City, The Fort, The Anvil, Olvangard
 
 Rockhome was established well after Waterside once the original islanders dared venture further out from the safety of Waterside. it is the largest and most densely populated settlement. Nestled on a plateau sandwiched between three mountains the city has grown over generations to take over the entirety of the plateau and even into the mountains. Up the sides and into the guts of the mountains. 
 
