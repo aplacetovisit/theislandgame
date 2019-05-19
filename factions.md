@@ -67,8 +67,11 @@ Of special note are the giant bats and wasps of the woods. Most walkways in The 
 
 ### Relgious
 
+The islanders refer to themselves as the people of ten thousand gods. It seems every tribe, clan, family, nook, and cranny has a specialized diety of some sort attributed to it. A few scholars have attempted to catalog them all, but most admit they borrow heavily from the work of others while adding the handful of new discoveries they may have personally made. 
+
+
 ### Political
 
 ### Para-Military
 
-### Secret Societies
+
